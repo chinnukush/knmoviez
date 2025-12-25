@@ -1,6 +1,5 @@
 // import Cookies from "universal-cookie";
 import "./Nav.css";
-import { useEffect, useState } from "react";
 import React, { useEffect, useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link, useLocation } from "react-router-dom";

@@ -1,0 +1,3 @@
+async def save_to_backend(metadata_info, file, size, title):
+    print(f"save_to_backend called with args: size={size}, title={title}")
+    ...
